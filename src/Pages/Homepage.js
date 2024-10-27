@@ -7,10 +7,10 @@ const HomePage = () => {
         </h1>
       </div>
       <div className="text-center mb-6">
-        <h2 className="text-2xl font-semibold text-gray-700">need loan Mangement? visit us us</h2>
+        <h2 className="text-2xl font-semibold text-gray-700">need loan Mangement? visit us</h2>
         <button className="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition duration-200">Click Here</button>
         <p className="mt-3 text-gray-600">
-          A loan management system is a technological solution that helps banks
+          A loan management system is a technological solution that helps banks and customers
           manage their loans efficiently. Automation of loan servicing ensures
           that banks are able to manage your loans and avoid any problems that
           may arise. Loan automation brings the entire team on the same page
